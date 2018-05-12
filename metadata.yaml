@@ -1,0 +1,27 @@
+_repo: Tales-and-Trails-of-Wakarusa_35507
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35507-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Harvey, Alexander Miller
+    birthdate: 1867
+    deathdate: 1928
+    gutenberg_agent_id: '37720'
+    url: http://www.gutenberg.org/2009/agents/37720
+description: ''
+gutenberg_issued: '2011-03-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35507'
+  lccn: '18001004'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wakarusa River Valley (Kan.)'
+- !lcc 'F590.3'
+title: Tales and Trails of Wakarusa
+url: http://www.gutenberg.org/ebooks/35507
